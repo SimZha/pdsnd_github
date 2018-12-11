@@ -20,7 +20,7 @@ def input_city():
     city = city.lower()
     while True: #To handle unexpected city input by user.
             if city == '1' or city == 'chicago':
-                print("\nChicago, the Windy City! Cool.")
+                print("\nChicago, home of the Cubs!")
                 return 'chicago'
             elif city == '2' or city == 'new york city':
                 print("\nNew York City, the Big Apple! Cool.")
