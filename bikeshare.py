@@ -26,7 +26,7 @@ def input_city():
                 print("\nNew York City, the Big Apple! Cool.")
                 return 'new york city'
             elif city == '3' or city == 'washington':
-                print("\nWashington, the Nation's Capital! Cool.")
+                print("\nWashington, home of the Nationals!")
                 return 'washington'
             #The below will be displayed to ask for user input again.
             else:
