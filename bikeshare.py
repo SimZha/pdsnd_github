@@ -116,7 +116,7 @@ def load_data(city):
     df["day_of_month"] = df["Start Time"].dt.day
     return df
 
-def time_stats(df, time, month, week_day, md): #To filter data and product new df according to all the criteria given by the user.
+def time_stats(df, time, month, week_day, md): #To filter data and produce new df according to all the criteria given by the user.
     print('\nGotcha! Now calculating stats for you!\n')
     #To filter by month.
     if time == 'month':
