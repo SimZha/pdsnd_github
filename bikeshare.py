@@ -11,12 +11,12 @@ def input_city():
     print('Hello! Let\'s explore some US bikeshare data together! Vroom Vroom!')
     print(' ')
     #To get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs.
-    print('We have the following cities and their corresponding numbers.')
+    print('We have the following numbers and their corresponding cities.')
     print('1 - Chicago')
     print('2 - New York City')
     print('3 - Washington')
     print(' ')
-    city = input('Please choose a city: ')
+    city = input('Please enter a number or type city name: ')
     city = city.lower()
     while True: #To handle unexpected city input by user.
             if city == '1' or city == 'chicago':
