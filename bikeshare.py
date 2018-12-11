@@ -8,7 +8,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 def input_city():
     #To begin the interactivity with the user. It will ask for the user's choice as input city.
-    print('Hello! Let\'s explore some US bikeshare data together!')
+    print('Hello! Let\'s explore some US bikeshare data together! Vroom Vroom!')
     print(' ')
     #To get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs.
     print('We have the following cities and their corresponding numbers.')
