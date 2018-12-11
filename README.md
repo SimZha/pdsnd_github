@@ -1,15 +1,16 @@
-### Date created
-Include the date you created this project and README file.
+### Date Created
+Created Dec 11, 2018
 
 ### Project Title
-Replace the Project Title
+Bikeshare Data Github Project
 
-### Description
-Describe what your project is about and what it does
+### Project Description
+Practice with Uploading Gits to Github via Instructions from Udacity Nanodegree Program.
 
-### Files used
-Include the files used
+### Files Used
+.gitignore
+README.md
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credits to be updated.
