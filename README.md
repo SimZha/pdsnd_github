@@ -13,4 +13,4 @@ README.md
 bikeshare.py
 
 ### Credits
-Credits to be updated.
+Shoutout to Udacity Teachers.
