@@ -106,7 +106,7 @@ def day_info(d): #To ask the user for day of week input.
 
 def load_data(city):
     #To load csv for the chosen city.
-    print('\nNext... \n')
+    print('\nLoading... \n')
     df = pd.read_csv(CITY_DATA[city])
 
     #To convert to and extract from Start Time.
